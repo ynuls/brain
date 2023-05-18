@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 import { SiteHeader } from "@/components/SiteHeader";
 
 export const metadata = {
-  title: "DiagramGPT",
+  title: "百普学科名人图谱",
   description:
     "Draw flowchart, sequence diagram, class diagram, user journey, gantt, C4C diagram with nature language.",
 };
