@@ -11,7 +11,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "DiagramGPT",
+  name: "百谱学科名人图谱",
   description: "Draw diagram with nature language.",
   mainNav: [
     // {
