@@ -11,7 +11,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "数学知识图谱系统",
+  name: "Mind-思维导图",
   description: "Draw diagram with nature language.",
   mainNav: [
     // {
