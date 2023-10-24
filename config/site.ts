@@ -11,7 +11,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "人文社科知识图谱系统",
+  name: "中国历史知识图谱",
   description: "Draw diagram with nature language.",
   mainNav: [
     // {
