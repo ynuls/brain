@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 import { SiteHeader } from "@/components/SiteHeader";
 
 export const metadata = {
-  title: "中国历史知识图谱",
+  title: "法学知识可视化平台",
   description:
     "Draw flowchart, sequence diagram, class diagram, user journey, gantt, C4C diagram with nature language.",
 };
