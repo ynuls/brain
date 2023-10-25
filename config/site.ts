@@ -11,7 +11,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "中国历史知识图谱",
+  name: "法学知识可视化平台",
   description: "Draw diagram with nature language.",
   mainNav: [
     // {
