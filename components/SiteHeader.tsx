@@ -31,7 +31,7 @@ export function SiteHeader() {
                   className: "text-slate-700",
                 })}
               >
-                <Icons.gitHub1 className="h-5 w-5" />
+                
                 <span className="sr-only">GitHub</span>
               </div>
             </Link>
@@ -47,7 +47,7 @@ export function SiteHeader() {
                   className: "text-slate-700",
                 })}
               >
-                <Icons.twitter1 className="h-5 w-5 fill-current" />
+               
                 <span className="sr-only">Twitter</span>
               </div>
             </Link>
