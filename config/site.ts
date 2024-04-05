@@ -11,7 +11,7 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "mindtalk大语言模型思维导图",
+  name: "智脑图谱",
   description: "Draw diagram with nature language.",
   mainNav: [
     // {
