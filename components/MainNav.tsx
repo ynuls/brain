@@ -44,7 +44,7 @@ export function MainNav({ items }: MainNavProps) {
         className="-ml-4 text-base hover:bg-transparent focus:ring-0 md:hidden"
       >
         <Icons.logo className="mr-2 h-4 w-4" />{" "}
-        <span className="font-bold">mindtalk大语言模型思维导图</span>
+        <span className="font-bold">智脑图谱</span>
       </Button>
     </div>
   );
